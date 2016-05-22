@@ -1,4 +1,4 @@
-echo "# datasciencecoursera" >> HelloWorld.md
+echo "# This is a markdown file" >> HelloWorld.md
 git init
 git add HelloWorld.md
 git commit -m "first commit"
